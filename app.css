@@ -1,0 +1,38 @@
+body 
+{
+font-family:Times New Roman;
+background-image: url('art.jpg');
+background-repeat:no-repeat;
+background-size:100%;
+}
+.app{
+background-color:white;
+background-image:linear-gradient(to right,gray,white);
+padding-top:5px;
+margin-top:150px;
+1margin-left:400px;
+margin-right:400px;
+margin-left:400px;
+border:none;
+border-radius:30px;
+}
+#result{
+background-color:white;
+padding:15px;
+margin-left:550px;
+margin-right:550px;
+margin-top:50px;
+border:solid black;
+border-radius:10px;
+border:none;
+font-weight:bold;
+}
+        
+input, button 
+{
+margin:10px;
+padding:10px;
+border-radius:10px;
+border:none;
+font-weight:bold;
+}
